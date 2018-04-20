@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="vnd">VND</string>
+    <string name="usd">USD</string>
+    <string name="euro">Euro</string>
+    <string name="jpy">JPY</string>
+
+    <string name="clear">Clear</string>
+    <string-array name="currency_array">
+        <item>USD to VND</item>
+        <item>Euro to VND</item>
+        <item>VND to USD</item>
+        <item>VND to Euro</item>
+        <item>JPY to VND</item>
+        <item>VND to JPY</item>
+    </string-array>
+</resources>
